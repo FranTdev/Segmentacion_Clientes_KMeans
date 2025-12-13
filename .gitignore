@@ -1,0 +1,17 @@
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+
+# Ignorar archivos de IDEs (si usas VS Code)
+.vscode/
+
+# Ignorar archivos grandes de resultados o de exportación
+*.pdf
+*.zip
+*.mp4
